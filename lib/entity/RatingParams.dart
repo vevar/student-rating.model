@@ -1,0 +1,3 @@
+class RatingParams {
+  int id;
+}
